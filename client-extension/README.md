@@ -2,7 +2,7 @@
     <img src="https://img.icons8.com/color/96/000000/security-checked.png" alt="NetGuardian Logo" width="96"/>
 </p>
 
-<h1 align="center">🛡️ NETGUARDIAN — Browser Extension (MVP) 🤖</h1>
+<h1 align="center"> NETGUARDIAN — Browser Extension (MVP) </h1>
 
 <p align="center">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI Security Animation" width="320"/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Image Blurring**  
     Automatically detects and blurs inappropriate images while you browse.
@@ -28,15 +28,15 @@
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
-### 🧰 Prerequisites
+### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16+ recommended) ⚙️
-- [npm](https://www.npmjs.com/) (comes with Node.js) 📦
-- [Google Chrome](https://www.google.com/chrome/) or Chromium-based browser 🌐
+- [Node.js](https://nodejs.org/) (v16+ recommended) 
+- [npm](https://www.npmjs.com/) (comes with Node.js) 
+- [Google Chrome](https://www.google.com/chrome/) or Chromium-based browser 
 
-### 🚦 Setup Instructions
+###  Setup Instructions
 
 1. **Clone the repository**  
    ```bash
@@ -58,7 +58,7 @@
    - Open <kbd>chrome://extensions</kbd> in your browser.
    - Enable <kbd>Developer mode</kbd> (top right).
    - Click <kbd>Load unpacked</kbd> and select the `client-extension/dist/` folder.
-   - 🎉 **Browse safely!** The extension will automatically blur images on web pages.
+   - **Browse safely!** The extension will automatically blur images on web pages.
 
 <p align="center">
     <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Browsing Safe" width="320"/>
@@ -66,14 +66,14 @@
 
 ---
 
-## 📦 Required Modules & Libraries
+##  Required Modules & Libraries
 
-- **React** ⚛️ — UI framework for the extension popup/options.
-- **Chrome Extensions API** 🧩 — For browser integration.
-- **TensorFlow.js** 🤖 (optional, for advanced AI) — Image classification.
-- **NSFW.js** 🚫 (optional) — Detects inappropriate images.
-- **styled-components** 🎨 — Styling React components.
-- **@craco/craco** 🛠️ — Customizes Create React App configuration.
+- **React** — UI framework for the extension popup/options.
+- **Chrome Extensions API** — For browser integration.
+- **TensorFlow.js** (optional, for advanced AI) — Image classification.
+- **NSFW.js** (optional) — Detects inappropriate images.
+- **styled-components** — Styling React components.
+- **@craco/craco** — Customizes Create React App configuration.
 
 Install all dependencies with:
 ```bash
@@ -82,24 +82,24 @@ npm install
 
 ---
 
-## 🤖 How It Works
+## How It Works
 
 <p align="center">
     <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="AI Robot" width="220"/>
 </p>
 
-- 🖼️ **Image Detection:**  
+- **Image Detection:**  
   Every image loaded in your browser is scanned by a smart heuristic worker (with optional AI upgrades).
-- 🤖 **AI Filtering:**  
+-  **AI Filtering:**  
   The worker checks if images are inappropriate using lightweight rules or advanced AI models (TensorFlow.js/NSFW.js).
-- 🔒 **Blurring:**  
+-  **Blurring:**  
   Detected images are instantly blurred, keeping your browsing safe and private.
-- ⚙️ **Custom Settings:**  
+-  **Custom Settings:**  
   All preferences are securely stored in Chrome and can be managed from the extension popup.
 
 ---
 
-## 🧩 Roadmap
+##  Roadmap
 
 - [ ] Integrate advanced AI models for better detection.
 - [ ] Add user feedback and reporting.
@@ -111,3 +111,4 @@ npm install
     <br>
     <b>Stay safe, browse smart — with NetGuardian!</b>
 </p>
+
