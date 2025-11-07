@@ -91,21 +91,18 @@ npm install
 
 ## How It Works
 
-<h2 align="center">How It Works</h2>
-
 <table align="center">
   <tr>
-    <td align="center" width="400">
-      <img src="https://drive.google.com/uc?export=view&id=1Y2YalT-Whh_IxqYdswpK7MlOCmf9TEqD" alt="Parent Mode" width="350"/><br>
+    <td align="center" width="450">
+      <img src="https://drive.google.com/uc?export=view&id=1Y2YalT-Whh_IxqYdswpK7MlOCmf9TEqD" alt="Parent Mode" height="300"/><br>
       <b>Parent Mode</b>
     </td>
-    <td align="center" width="400">
-      <img src="https://drive.google.com/uc?export=view&id=1eEIpwyr32p1PkRrjjIfqfeWs2jOu5PlJ" alt="Child Mode" width="350"/><br>
+    <td align="center" width="450">
+      <img src="https://drive.google.com/uc?export=view&id=1eEIpwyr32p1PkRrjjIfqfeWs2jOu5PlJ" alt="Child Mode" height="300"/><br>
       <b>Child Mode</b>
     </td>
   </tr>
 </table>
-
 
 
 - **Image Detection:**  
