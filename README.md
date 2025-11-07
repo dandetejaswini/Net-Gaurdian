@@ -4,6 +4,13 @@
 
 <h1 align="center"> NETGUARDIAN — Browser Extension (MVP) </h1>
 
+<!-- 🎥 Watch Demo Button -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1VXjGbcKv_xKgfcguPh-7TxeTUixVRebw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube" alt="Watch Demo"/>
+  </a>
+</p>
+
 <p align="center">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI Security Animation" width="320"/>
 </p>
