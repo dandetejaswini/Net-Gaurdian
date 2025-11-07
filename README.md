@@ -11,9 +11,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="AI Security Animation" width="320"/>
-</p>
+</p> -->
 
 <p align="center">
     <b>Protect your browsing experience with AI-powered image filtering.<br>
