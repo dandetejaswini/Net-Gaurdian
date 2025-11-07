@@ -91,15 +91,18 @@ npm install
 
 ## How It Works
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="AI Robot" width="220"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- space between images -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI Assistant" width="220"/>
-</p>
-
-<p align="center">
-  <b>AI Robot</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>AI Assistant</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="AI Robot" width="350"/><br>
+      <b>AI Robot</b>
+    </td>
+    <td align="center" width="400">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI Assistant" width="350"/><br>
+      <b>AI Assistant</b>
+    </td>
+  </tr>
+</table>
 
 
 - **Image Detection:**  
