@@ -6,7 +6,7 @@
 
 <!-- 🎥 Watch Demo Button -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1VXjGbcKv_xKgfcguPh-7TxeTUixVRebw/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1W-HeGaQFtOIbDmhmRwIAaKdflTTK4NNJ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube" alt="Watch Demo"/>
   </a>
 </p>
@@ -94,12 +94,12 @@ npm install
 <table align="center">
   <tr>
     <td align="center" width="400">
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="AI Robot" width="350"/><br>
-      <b>AI Robot</b>
+      <img src="https://drive.google.com/file/d/1Y2YalT-Whh_IxqYdswpK7MlOCmf9TEqD/view?usp=sharing" alt="Parent Mode" width="350"/><br>
+      <b>Parent Mode</b>
     </td>
     <td align="center" width="400">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI Assistant" width="350"/><br>
-      <b>AI Assistant</b>
+      <img src="https://drive.google.com/file/d/1eEIpwyr32p1PkRrjjIfqfeWs2jOu5PlJ/view?usp=sharing" alt="Child Mode" width="350"/><br>
+      <b>Child Mode</b>
     </td>
   </tr>
 </table>
